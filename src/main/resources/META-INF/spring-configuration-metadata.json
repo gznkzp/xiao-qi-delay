@@ -1,0 +1,16 @@
+{
+  "properties": [
+    {
+      "name": "delay.cache.open",
+      "type": "java.lang.Boolean",
+      "description": "是否开启持久化",
+      "defaultValue": false
+    },
+    {
+      "name": "delay.cache.store",
+      "type": "java.lang.String",
+      "description": "持久化目录",
+      "defaultValue": ""
+    }
+  ]
+}
